@@ -1,0 +1,1119 @@
+/* Big desktop :1200px. */
+@media (min-width: 1500px) and (max-width: 1900px) {
+    .footer-widget .ads-banner img {
+        margin-right: 20px;
+        width: 90%;
+    }
+}
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .footer-widget .ads-banner img {
+        margin-right: 20px;
+        width: 90%;
+    }
+    .hero-img img {
+        height: 470px;
+        margin-top: 71px;
+    }
+    .hero-area {
+        height: 540px; 
+    }
+    .hero-wrp {
+        margin-top: 110px;
+    }
+    .ads-details .ads-chart img {
+        width: 100%;
+    }
+    .services-ads .ads-dec h3 {
+        font-size: 46px; 
+    }
+    .services-ads .ads-dec h5 { 
+        font-size: 16px; 
+    }
+    .services-ads .ads-dec ul li { 
+        line-height: 50px;
+        font-size: 17px;
+    }
+    .kt-blk .texts p { 
+        font-size: 18px;
+    } 
+    .services-blks h5 {
+        font-size: 17px; 
+    }
+    .snape-texts {
+        margin-top: 30px; 
+        padding: 20px 0;
+        margin-left: 40px;
+        padding-right: 24px;
+    }
+
+
+
+
+
+
+
+
+}
+
+/* lapTop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .header-area .menu-area nav ul li a { 
+        margin-left: 20px; 
+    }
+    .footer-widget .ads-banner img {
+        margin-right: 20px;
+        width: 90%;
+    }
+    .single-dsc { 
+        padding: 15px;
+    }
+    .single-dsc.cl-box h1 { 
+        font-size: 60px;
+    }
+    .single-dsc.cl-box h4 { 
+        font-size: 18px;
+    }
+    .single-dsc .blk-content p { 
+        font-size: 19px;
+    }
+    .hero-area h1 {
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .hero-area .hero-wrp p {
+        font-size: 23px; 
+        line-height: 34px;
+    }
+    .hero-img img {
+        height: 370px;
+        margin-top: 90px;
+    }
+    .hero-area {
+        height: 459px; 
+    }
+    .hero-wrp {
+        margin-top: 80px;
+    }
+    .header-area .menu-area nav ul li a.contact-btn { 
+        margin-left: 45px; 
+    }
+    .brands-area .brands-logo img {
+        width: 80%;
+    }
+    .blogs-area .single-blog img {
+        width: 100%;
+    }
+    .step-content img {
+        width: 770px;
+    }
+    .about-img img {
+        width: 100%;
+    }
+    .privacy-blk h5 {
+        font-size: 25px;
+        line-height: 32px;
+        margin-bottom: 25px;
+    }
+    .ads-details .ads-chart img {
+        width: 100%;
+    }
+    .ads-texts .freelancer-ads p { 
+        font-size: 20px;
+        line-height: 27px;
+    }
+    .services-ads .ads-dec h3 {
+        font-size: 36px;
+        color: #ffcc02;
+        margin-bottom: 50px;
+        margin-left: 30px;
+        line-height: 40px;
+    }
+    .services-ads .ads-dec h5 {
+        position: relative;
+        padding: 20px;
+        margin: 0;
+        font-size: 12px;
+        line-height: 26px; 
+        padding-left: 30px;
+        padding-bottom: 15px;
+        margin-bottom: 20px;
+    }
+    .services-ads .ads-dec ul li { 
+        line-height: 53px;
+        font-size: 14px;
+    }
+    .ab-info p {
+        font-size: 17px;  
+    }
+    .services-contact .sc_wrp h3 {
+        font-size: 46px; 
+    }
+    .doels h4 {
+        font-size: 32px; 
+    }
+    .kt-blk .texts h1 {
+        font-size: 40px; 
+        line-height: 35px;
+    }
+    .kt-blk .texts p { 
+        line-height: 18px;
+        font-size: 15px;
+    }
+    .clears .clear-kitchen .kt-blk { 
+        height: 150px; 
+    }
+    .services-blks h5 {
+        line-height: 20px;
+    }
+    .snape-texts {
+        margin-top: 30px; 
+        padding: 20px 0;
+        margin-left: 40px;
+        padding-right: 24px;
+    }
+    .SEA-sscan h2 { 
+        line-height: 53px;
+        margin-bottom: 20px;
+    }
+    .ads-audit .single-dsc.cl-box .blk-content h1 {
+        font-size: 50px; 
+    } 
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .none_xs{
+        display: none !important;
+    }
+    .show_xs{
+        display: block !important;
+    }    
+    .bar_icon a {
+        color: #fff;
+    } 
+    .bar_icon a svg {
+        font-size: 40px;
+        position: relative;
+        top: 9px;
+    }
+    .header-area .logo-area a.img {
+        margin-top: 0px; 
+    }
+    .bar_icon a.contact-btn {
+        background: #ffe002;
+        padding: 20px 50px;
+        color: #1b252f;
+        font-weight: 600;
+        border-radius: 30px;
+        margin-right: 50px;
+        font-family: 'Raleway', sans-serif;
+    }
+    .header-area {
+        background: #1B252F;
+        padding: 30px 0;
+    }
+    .hero-area {
+        height: 875px;
+        position: relative;
+        overflow: hidden;
+    }
+    .hero-wrp {
+        margin-top: 565px;
+        text-align: center;
+      }
+      .hero-area::before {
+        display: none;
+    }
+    .hero-area .col-lg-7 {
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translate(-50%);
+    }
+    .hero-img img {
+        height: 430px;
+        margin-top: 60px;
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translate(-50%);
+    }
+    .hero-area:after {
+        width: 67%;
+        height: 56%;
+    }
+    .hero-area .hero-wrp p { 
+        width: 430px;
+        margin: auto;
+        margin-top: 30px;
+    }
+    .hero-wrp a.theme-btn { 
+        margin-left: 25px;
+    }
+    .about-wrp {
+        text-align: center;
+    }
+    
+    .about-wrp a.theme-btn {
+        margin-bottom: 55px;
+        display: inline-block;
+        margin-top: 35px !important;
+    }
+    .google-ads .ads-form form img { 
+        width: 100%;
+    }
+    .brands-area .brands-logo img {
+        width: 75%;
+    }
+    .col-lg-3.last {
+        margin-left: 0;
+    }
+    .blog-blk {
+        background: #1b252f;
+        padding: 60px 45px;
+        margin-top: 50px;
+    }
+    .blog-area.gray-bac .section-title {
+        margin-bottom: 0;
+    }
+    .heros-area .hero-contents form ul li a {
+        height: 40px; 
+        padding: 0 30px; 
+        font-size: 13px;
+        margin: 0 2px;
+    }
+
+    .step-content img {
+        width: 100%;
+    }
+    .hero-contents.hero-contentTwo h3 {
+        font-size: 35px;
+        margin-bottom: 20px;
+        padding: 0 0px;
+    }
+    .blogs-articles.blogs-area p {
+        font-size: 18px;
+        line-height: 35px;
+        margin-bottom: 20px;
+    }
+    .blogs-area .single-blog h5 { 
+        padding-top: 0px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .xss_none{
+        display: none;
+    }
+
+    .xss_blk{
+        display: block !important;
+      }
+    .abouts-area .ads-text {
+        height: 70px;
+        align-items: center;
+        margin-bottom: 0px;
+        text-align: center;
+        justify-content: center;
+    }
+    .about-me {
+        margin-top: 70px;
+    }
+    .abouts-area .ads-text p { 
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .about-img img {
+        width: 100%;
+        margin-top: 120px;
+    } 
+    .privacy-blk h5 {
+        font-size: 25px;
+        line-height: 32px;
+        margin-bottom: 25px;
+    }
+    .btn-blk {
+        text-align: center;
+        margin-top: 45px;
+    }
+    .ads-texts .freelancer-ads {
+        height: auto;
+        justify-content: center;
+    }
+    .ads-texts .freelancer-ads h2 { 
+        font-size: 59px; 
+        margin-top: 50px;
+        line-height: 53px;
+        margin-bottom: 30px;
+    }
+    .ads-texts .freelancer-ads p { 
+        font-size: 20px;
+        line-height: 27px;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    .services-ads .ads-dec h3 {
+        font-size: 44px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    .ads-dec {
+        text-align: center;
+    }
+    
+    .ads-dec ul li {
+        text-align: left;
+    }
+    .ab-info { 
+        margin-top: 220px;
+    }
+    .sr_form {
+        margin-top: 60px;
+    }
+    .kt-blk .texts p { 
+        padding: 0 10px;
+    }
+    .clears .achter {
+        margin-top: 60px;
+        padding: 0;
+        text-align: center;
+    }
+    .clear-kitchen { 
+        text-align: center;
+        padding-right: 0;
+    }
+    .clears {
+        padding: 60px 0;
+    }
+    .Doelstellingen-blk {
+        text-align: center;
+    }
+    
+    .Doelstellingen-blk p {
+        padding: 0;
+    }
+    .pr-ex {
+        padding-left: 0px;
+    }
+    .ex-bac:after { 
+        display: none;
+    }
+    .ex-bac-two:after {
+        display: none;
+    }
+    .gray-rs{
+        background-color: #F6F6F4 !important;
+    }
+    .clears .clear-kitchen .row .col-lg-4 { 
+        padding-right: 15px;
+    }
+    .services-hero .sr-wrps h4 {
+        font-size: 36px; 
+    }
+    .sr-list {
+        margin-top: 30px;
+    } 
+    .sr-list ul {
+        margin-left: 15px;
+    }
+    .services-hero { 
+        height: 570px; 
+    }
+    .snape-texts:after { 
+        width: 100%; 
+        left: 0;
+        transform: skew(0deg, 0deg); 
+    }
+    .snape-texts { 
+        padding: 25px 25px;
+    }
+    .sr_form form input { 
+        margin-bottom: 15px; 
+    } 
+    .SEA-sscan form input {
+        width: 100%; 
+    }
+    .SEA-sscan form label.check-box {
+        font-size: 14px; 
+        margin-top: 10px; 
+        padding-right: 0;
+    }
+    .check-box input:checked ~ .checkmark { 
+        top: -5px;
+    }
+    .SEA-sscan form button { 
+        width: 100%;
+    }
+    .SEA-sscan {
+        margin-bottom: 60px;
+    }
+    .brands-area .brands-logo { 
+        margin-top: 30px;
+    }
+    .SEA-audit.brands-area h3 { 
+        margin-bottom: 50px; 
+        margin-top: 25px;
+    }
+    .ads-audits.discounts-area {
+        padding: 50px 0;
+    }
+
+    .ads-details .ads-content { 
+        text-align: center;
+    }
+    .ads-details .ads-content p { 
+        line-height: 22px; 
+    }
+    .services-contact .sc_wrp h3 span {
+        display: inline-block;
+    }
+    .sc_wrp {
+        text-align: center;
+    }
+    .services-contact .sc_wrp h3 {
+        font-size: 36px; 
+    }
+    .services-contact { 
+        padding-bottom: 50px;
+    }
+    .ads-texts .freelancer-ads h2 span {
+        display: inline-block !important;
+    }
+    .services-contact .show_jxs {
+        display: block;
+    }
+    .services-contact .hide_jxs {
+        display: none !important;
+    }
+    .sr_form.rs-top {
+        margin-top: 0px;
+        margin-bottom: 25px;
+    }
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+        .none_xs{
+        display: none !important;
+    }
+    .show_xs{
+        display: block !important;
+    }
+    .bar_icon a {
+        color: #fff;
+    } 
+    .show_jxs{
+        display: block !important;
+    }
+    .hide_jxs{
+        display: none !important;
+    }
+    .bar_icon a svg {
+        font-size: 30px;
+        position: relative;
+        top: 0px;
+    }
+    .header-area .logo-area a.img {
+        margin-top: 0px; 
+    }
+    .bar_icon a.contact-btn {
+        display: none;
+    }
+    .header-area {
+        background: #1B252F;
+        padding: 15px 0;
+    }
+    .hero-area {
+        height: 520px;
+        position: relative;
+        overflow: hidden;
+    }
+    .hero-wrp {
+        margin-top: 280px;
+        text-align: center;
+    }
+      .hero-area::before {
+        display: none;
+    }
+    .hero-area .col-lg-7 {
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translate(-50%);
+    }
+    .hero-img img {
+        height: 185px;
+        margin-top: 60px;
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translate(-50%);
+    }
+    .hero-area:after {
+        width: 67%;
+        height: 47%;
+    }
+    .hero-area .hero-wrp p {
+        width: 295px;
+        margin: auto;
+        margin-top: 22px;
+        font-size: 17px;
+        line-height: 26px;
+    }
+    .hero-wrp a.theme-btn { 
+        margin-left: 0px;
+    }
+    .about-wrp {
+        text-align: center;
+    }
+    
+    .about-wrp a.theme-btn {
+        margin-bottom: 55px;
+        display: inline-block;
+        margin-top: 35px !important;
+    }
+    .google-ads .ads-form form img { 
+        width: 100%;
+    }
+    .brands-area .brands-logo img {
+        width: 75%;
+    }
+    .col-lg-3.last {
+        margin-left: 0;
+    }
+    .blog-blk {
+        background: #1b252f;
+        padding: 45px 25px;
+        margin-top: 50px;
+    }
+    .blog-area.gray-bac .section-title {
+        margin-bottom: 0;
+    }
+    .header-area .logo-area a.img img {
+        width: 100%;
+    }
+    .google-ads .ads-form form .inp_blk {
+        width: 290px; 
+    }
+    .footer-widget .ads-banner img {
+        margin-right: 0;
+        width: 85%;
+    }
+    .hero-area h1 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+    body{
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .google-ads .ads-form form h3 {
+        font-size: 32px;
+        color: #fff;
+        line-height: 22px;
+    }
+    .google-ads .ads-form form .inp_blk input:first-child {
+        min-width: 160px;
+        padding-left: 15px; 
+    }
+    .google-ads .ads-form form .inp_blk input {
+        border: none;
+        padding-left: 10px;
+        padding-bottom: 0px;
+    }
+    .google-ads .ads-form form .inp_blk { 
+        height: 40px; 
+    }
+    a.theme-btn {
+        height: 40px;
+        display: inline-block;
+        text-align: center;
+        line-height: 44px;
+        background: #FFCC02;
+        border-radius: 30px;
+        padding: 0 50px;
+        font-size: 16.71px;
+    }
+    .google-ads .ads-form form img {
+        margin-top: -25px;
+    }
+    .brands-area {
+        padding: 50px 0; 
+    }
+    .brands-area h3 {
+        font-size: 25px;
+        line-height: 27px;
+        margin-bottom: 25px; 
+    }
+    .blog-area.gray-bac {
+        padding: 50px 0;
+    }
+    .section-title h4 {
+        font-size: 29px; 
+    }
+    .blog-blk p {
+        font-size: 16px; 
+        line-height: 24px; 
+        margin-top: 25px;
+    }
+    .blog-blk a {
+        font-size: 22px; 
+        line-height: 20px;
+        margin-top: 32px; 
+    }
+    .footer-widget.fst-widget .gAds_rate { 
+        margin-top: 30px; 
+    }
+    .copy-right-texta p { 
+        padding: 15px 0;
+        font-size: 11px; 
+    } 
+    .blog-area.gray-bac .section-title {
+        margin-bottom: 0;
+    }
+    .heros-area .hero-contents form ul li a {
+        height: 40px;
+        padding: 0 20px;
+        font-size: 12px;
+        margin: 0 5px;
+        margin-top: 15px;
+    }
+    .heros-area .hero-contents form input {
+        width: 100%; 
+        height: 40px; 
+    }
+    .heros-area .hero-contents h3 { 
+        font-size: 36px;
+    }
+    .heros-area .hero-contents p {
+        color: #fff;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+    .heros-area {
+        height: 560px; 
+    }
+    .blogs-area .single-blog {
+        margin-top: 30px; 
+    }
+    .pgn-blk ul li a { 
+        margin: 20px 5px; 
+    }
+    .paginations.gray-bac {
+        margin-top: 50px;
+    }
+    .heros-area .hero-contents form ul li a {
+        height: 30px;
+        padding: 0 20px;
+        font-size: 11px;
+        margin: 0 2px;
+        line-height: 30px;
+        margin-top: 10px;
+    }
+    .step-content img {
+        width: 100%;
+    }
+    .hero-contents.hero-contentTwo h3 {
+        font-size: 25px;
+        margin-bottom: 20px;
+        padding: 0 0px;
+    } 
+    
+    .blogs-articles.blogs-area p {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 20px;
+    }
+    .blogs-area .single-blog h5 { 
+        padding-top: 0px;
+        font-size: 14px;
+        line-height: 20px;
+    } 
+    .article-two img {
+        width: 100%;
+    }  
+    .article-three img {
+        width: 100%;
+    }
+    .article-two h3 {
+        font-size: 22px !IMPORTANT;
+    }
+    .article-three h3 {
+        font-size: 22px !IMPORTANT;
+    }
+    .blogs-articles.blogs-area { 
+        padding-bottom: 40px;
+    }
+    .bar_icon a svg { 
+        top: 5px;
+    }
+    .abouts-area .ads-text {
+        height: auto;
+        align-items: center;
+        margin-bottom: 0px;
+        text-align: center;
+        justify-content: center;
+    }
+    .about-me {
+        margin-top: 50px;
+    }
+    .abouts-area .ads-text p { 
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .about-img img {
+        width: 100%;
+        margin-top: 120px;
+    }
+    .abouts-area .ads-text h1 {
+        font-size: 36px; 
+    }
+    body p{
+        font-size: 16px !important;
+    }
+    .abouts-area .about-me h5 span { 
+        font-size: 16px; 
+    }
+    .about-img img {
+        width: 100%;
+        margin-top: 100px;
+    }
+    .about-me a svg {
+        height: 40px;
+        width: 40px;
+        margin-top: 0px;
+    }
+    .services-blk {
+        margin-top: 30px;
+    }
+    .services-second-row { 
+        padding-top: 0px;
+    }
+    .services-firts-row {
+      padding-top: 0px;
+    }
+    .privacy-blk h5 {
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+    .btn-blk {
+        text-align: center;
+        margin-top: 0px;
+    }
+    .btn-blk a.theme-btn {
+        border-radius: 10px;
+        width: 100%;
+        height: 60px;
+        line-height: 60px;
+        font-size: 16px;
+        padding: 0;
+    }
+    .ads-texts .freelancer-ads {
+        height: auto;
+        justify-content: center;
+    }
+    .ads-texts .freelancer-ads h2 {
+        font-size: 42px;
+        margin-top: 50px;
+        line-height: 42px;
+        margin-bottom: 22px;
+    }
+    .ads-texts .freelancer-ads p { 
+        font-size: 20px;
+        line-height: 27px;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    .services-ads .ads-dec h3 {
+        font-size: 30px;
+        margin-left: 0px;
+        line-height: 42px;
+    }
+    .ab-info { 
+        margin-top: 170px;
+    }
+    .sr_form {
+        margin-top: 60px;
+    }
+    .services-contact .sc_wrp h3 {
+        font-size: 40px; 
+    }
+    .ads-details .ads-chart img {
+        width: 100%;
+    }
+    .ads-details .ads-chart {
+        margin-top: 0;
+    }
+    .ads-details .section-title {
+        margin-bottom: 45px;
+    }
+    .ads-details .ads-content a.theme-btn { 
+        padding: 0;
+        width: 100%;
+    }
+    .services-ads .ads-dec h5 { 
+        padding: 15px; 
+        font-size: 12px;
+        line-height: 18px; 
+        padding-left: 20px;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+    }
+    .services-ads .ads-dec ul li {
+        position: relative;
+        line-height: 32px;
+        font-size: 13px;
+    }
+    .ads-dec a.theme-btn { 
+        padding: 0;
+        width: 100%;
+        margin: 0;
+        margin-top: 30px;
+    }
+    .ab-info img {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        margin-top: -115px;
+        margin-bottom: 30px;
+    }
+    .ab-info h4 span { 
+        font-size: 15px; 
+        margin-top: 10px;
+    }
+    .sr_form form h5 { 
+        margin-bottom: 30px;
+    }
+    .sr_form form input { 
+        margin-bottom: 10px; 
+        padding-left: 20px;
+        background: #e6e6e6;
+        padding-bottom: 0px;
+    }
+    .sr_form {
+        margin-top: 40px;
+    }
+    .sr_form form button img {
+        height: 70px;
+    }
+    .services-contact {
+        padding: 50px 0;
+        padding-bottom: 50px;
+    }
+    .kt-blk .texts p { 
+        padding: 0 10px;
+    }
+    .clears .achter {
+        margin-top: 60px;
+        padding: 0;
+        text-align: center;
+    }
+    .clear-kitchen {
+        text-align: center;
+        padding: 0;
+    }
+    .clears {
+        padding: 60px 0;
+    }
+    .Doelstellingen-blk {
+        text-align: center;
+    }
+    
+    .Doelstellingen-blk p {
+        padding: 0;
+    }
+    .pr-ex {
+        padding-left: 0px;
+    }
+    .ex-bac:after { 
+        display: none;
+    }
+    .ex-bac-two:after {
+        display: none;
+    }
+    .gray-rs{
+        background-color: #F6F6F4 !important;
+    }
+    .clears .clear-kitchen h2 {
+        font-size: 47px;
+        margin-bottom: 30px;
+    }
+    .clears .clear-kitchen .row .col-lg-4 {
+        margin-right: unset !important;
+        padding-right: 15px;
+    }
+    .clears .clear-kitchen .kt-blk { 
+        margin-bottom: 30px;
+    }
+    .doels h4 {
+        font-size: 30px;
+        margin-bottom: 20px;
+        margin-top: 30px;
+    }
+    .Doelstellingen-blk ul li img { 
+        top: 0px;
+    }
+    .services-hero { 
+        height: auto; 
+        padding: 50px 0;
+    }
+    .services-hero .sr-wrps h4 {
+        font-size: 33px; 
+        line-height: 36px;
+        margin-bottom: 15px;
+    }
+    .services-hero .sr-list ul li { 
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+    .services-hero img.sr-snape-img { 
+        display: none;
+    }
+    .services-hero .sr-list ul h5 {
+        color: #fff;
+        font-size: 17px;
+        line-height: 22px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .sr-top-text a.theme-btn {
+        border-radius: 10px;
+        padding-left: 0;
+        padding-right: 0;
+        width: 100%;
+    }
+
+    .snape-texts:after { 
+        width: 100%; 
+        left: 0;
+        transform: skew(0deg, 0deg); 
+    }
+    .snape-texts { 
+        padding: 25px 25px;
+    }
+    .SEA-sscan form input {
+        width: 100%; 
+    }
+    .SEA-sscan form label.check-box {
+        font-size: 14px;
+        margin-top: 10px;
+        padding-right: 0;
+        margin-left: 20px;
+    }
+    .check-box input:checked ~ .checkmark { 
+        top: -5px;
+    }
+    .SEA-sscan form button { 
+        width: 100%;
+        height: 45px;
+    }
+    .SEA-sscan {
+        margin-bottom: 60px;
+    }
+    .SEA-audit.brands-area .brands-logo {
+        margin-top: 22px;
+    }
+    .SEA-audit.brands-area h3 {
+        margin-bottom: 20px;
+        margin-top: 5px;
+    }
+    .ads-audits.discounts-area {
+        padding: 50px 0;
+    }
+    .SEA-sscan h2 {
+        font-size: 29px;
+        line-height: 52px;
+    }
+    .SEA-sscan p { 
+        line-height: 26px; 
+    }
+    .SEA-sscan form input {
+        width: 100%;
+        height: 45px;
+        padding-left: 25px; 
+        margin-bottom: 15px;
+        padding-bottom: 0px;
+    }
+    .ads-audit h3 {
+        font-size: 36px;
+        line-height: 40px; 
+    }
+    .ads-audit p {
+        line-height: 26px;
+        margin-bottom: 50px;
+    }
+    .ads-audit .single-dsc.cl-box { 
+        margin-bottom: 30px;
+    }
+    .audit-check {
+        margin-top: 40px;
+        padding-left: 0px;
+    }
+    .audit-check ul li {
+        font-size: 18px;
+        line-height: 28px;
+        position: relative;
+        padding-left: 30px;
+        margin-bottom: 20px;
+    }
+    .doels { 
+        padding-top: 30px;
+    }
+    .clears { 
+        padding-top: 30px;
+    }
+    .btn-blk a.theme-btn { 
+        height: 45px;
+        line-height: 47px; 
+    }
+    .ads-details .ads-content { 
+        text-align: center;
+    }
+    .ads-details .ads-content p { 
+        line-height: 22px; 
+    } 
+    .ads-dec {
+        text-align: center;
+    }
+    
+    .ads-dec ul li {
+        text-align: left;
+    } 
+    .services-contact .sc_wrp h3 span {
+        display: inline-block;
+    }
+    .sc_wrp {
+        text-align: center;
+    }
+    .services-contact .sr_form.rs-top {
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.SEA-sscan form {
+    margin-left: 50px;
+}
+}
